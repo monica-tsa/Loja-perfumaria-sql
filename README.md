@@ -21,7 +21,7 @@ O sistema serve para demostrar como um banco opera com dados reais usando SQL.
   <div>
     <h3> Organização e formas do projeto e repositório</h3>
     <p>
-      O repositório foi estruturado utilizando o <strong>Git e GitHub</strong> para versionamento, garantindo histórico, organização e segurança dos arquivos.
+      O repositório foi estruturado utilizando o <strong>Git Bash e GitHub</strong> para versionamento, garantindo histórico, organização e segurança dos arquivos.
       Cada funcionalidade do banco foi separada em arquivos .sql individuais.
     </p>
   <h3> Comandos utilizados:</h3>
@@ -44,7 +44,7 @@ O sistema serve para demostrar como um banco opera com dados reais usando SQL.
 <li>Povoamento e manipulação de tabelas</li>
 <li>Consultas relacionais utilizando JOIN</li>
 <li>Uso de UPDATE e DELETE com segurança</li>
- <li>Versionamento com Git e organização no GitHub</li>
+ <li>Versionamento com Git Bash e organização no GitHub</li>
 </ul>
 <div>
 
